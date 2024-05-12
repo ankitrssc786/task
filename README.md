@@ -16,6 +16,8 @@ INSERT INTO task_db.restaurants (id, name, vote) VALUES ('1', 'Subway', '0'); IN
 ---------------Run the Spring Boot Application---------
 
 mvn spring-boot:run
+![image](https://github.com/ankitrssc786/task/assets/57948916/0fced7d6-507f-46d4-9fc8-c35b598af745)
+
 
 --------API Details-----------
 
